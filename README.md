@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there
 I am glad you visit my profile, how may i help you?
 
 # 👨‍💻 Who am I?
