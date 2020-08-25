@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# How am I?
+# Who am I?
 I am Mario Elsnig 👨‍💻, I am 16 (🎂 @ 13th of March 2004) years old and a student at a higher technical collegue in Austria.
 
 # 💬 How can you get in touch with me?
