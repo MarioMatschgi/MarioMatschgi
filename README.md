@@ -14,7 +14,7 @@ You can have a look into some of my projects on my website, [Programario](http:/
 ## In which languages do i code?
 I develope my games with [Unity-Engine](https://unity.com), so those are in C#. My website is in HTML, CSS and JavaScript, my bots are in Python and my plugins in Java.
 
-## With what tools do i code?
+## What tools do i use?
 For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jetbrains.com/rider/), for websites [VisualStudio Code](https://code.visualstudio.com), for my bots [PyCharm](https://www.jetbrains.com/pycharm/) and for my plugins [InteliJ](https://www.jetbrains.com/idea/) and [Eclipse](https://www.jetbrains.com/idea/)
 
 # 🔭 Projects
