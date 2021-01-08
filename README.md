@@ -21,7 +21,7 @@ For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jet
 > You can have a look into some of my projects on my website, [Programario](https://www.programario.at).
 
 # 💬 How can you get in touch with me?
-- Discord: Matschgi#7830
+- Discord: Programario#7830
 - StackOverflow: [Mario Elsnig](https://stackoverflow.com/users/14065298/mario-elsnig?tab=profile)
 - Reddit: [Mario_Matschgi](https://www.reddit.com/user/Mario_Matschgi)
 - Instagram: [MarioMatschgi](https://www.instagram.com/mariomatschgi/)
