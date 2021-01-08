@@ -9,7 +9,7 @@ I go to school and in my spare time i code.
 
 ## What do i code?
 I code stand-alone indie games, websites, bots, plugins and more...
-You can have a look into some of my projects on my website, [Programario](https://www.programario.at).
+You can have a look into some of my projects on my website, [programario.at](https://www.programario.at).
 
 ## In which languages do i code?
 I develope my games with [Unity-Engine](https://unity.com), so those are in C#. My website is in HTML, PHP, CSS and JavaScript, my bots are in Python and my plugins in Java.
@@ -18,7 +18,7 @@ I develope my games with [Unity-Engine](https://unity.com), so those are in C#. 
 For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jetbrains.com/rider/), for websites [VisualStudio Code](https://code.visualstudio.com), for my bots [PyCharm](https://www.jetbrains.com/pycharm/) and for my plugins [InteliJ](https://www.jetbrains.com/idea/) and [Eclipse](https://www.jetbrains.com/idea/)
 
 # 🔭 Projects
-> You can have a look into some of my projects on my website, [Programario](https://www.programario.at).
+> You can have a look into some of my projects on my website, [programario.at](https://www.programario.at).
 
 # 💬 How can you get in touch with me?
 - Discord: [Programario#7830](https://discordapp.com/users/294161179130068992)
