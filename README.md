@@ -17,9 +17,6 @@ I develope my games with [Unity-Engine](https://unity.com), so those are in C#. 
 ## What tools do i use?
 For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jetbrains.com/rider/), for websites [VisualStudio Code](https://code.visualstudio.com), for my bots [PyCharm](https://www.jetbrains.com/pycharm/) and for my plugins [InteliJ](https://www.jetbrains.com/idea/) and [Eclipse](https://www.jetbrains.com/idea/)
 
-# 🔭 Projects
-> You can have a look into some of my projects on my website, [programario.at][programario].
-
 # 💬 How can you get in touch with me?
 > For more information about me and my projects visit my website [programario.at][programario]
 - Discord: [Programario#7830](https://discordapp.com/users/294161179130068992)
