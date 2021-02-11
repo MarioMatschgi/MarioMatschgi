@@ -1,4 +1,4 @@
-# 👋 Hi there
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there
 I am glad you visit my profile, how may i help you?
 
 # 👨‍💻 Who am I?
