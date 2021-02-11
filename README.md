@@ -7,8 +7,6 @@ I am Mario Elsnig 👨‍🎓, I am 16 years old (🎂 @ 13th of March 2004) and
 # Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarioMatschgi&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMatschgi&langs_count=5&theme=tokyonight)]()
-
 # 📑 What do i do?
 I go to school and in my spare time i code.
 
