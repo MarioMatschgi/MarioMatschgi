@@ -18,9 +18,10 @@ I develope my games with [Unity-Engine](https://unity.com), so those are in C#. 
 For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jetbrains.com/rider/), for websites [VisualStudio Code](https://code.visualstudio.com), for my bots [PyCharm](https://www.jetbrains.com/pycharm/) and for my plugins [InteliJ](https://www.jetbrains.com/idea/) and [Eclipse](https://www.jetbrains.com/idea/)
 
 # 🔭 Projects
-> You can have a look into some of my projects on my website, [programario.at](https://www.programario.at).
+> You can have a look into some of my projects on my website, [programario.at][programario].
 
 # 💬 How can you get in touch with me?
+> For more information about me and my projects visit my website [programario.at][programario]
 - Discord: [Programario#7830](https://discordapp.com/users/294161179130068992)
 - StackOverflow: [Mario Elsnig](https://stackoverflow.com/users/14065298/mario-elsnig?tab=profile)
 - Reddit: [Mario_Matschgi](https://www.reddit.com/user/Mario_Matschgi)
@@ -28,21 +29,4 @@ For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jet
 - Twitter: [Mario_Matschgi](https://twitter.com/Mario_Matschgi)
 - E-Mail: [mario.elsnig@gmail.com](mailto:mario.elsnig@gmail.com)
 
-
-<!--
-
-👑
-
-**MarioMatschgi/MarioMatschgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[programario]: https://www.programario.at "programario.at"
