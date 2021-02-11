@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there <a href="https://discordapp.com/users/294161179130068992" target="_blank"><img align="right" alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there <a href="https://discordapp.com/users/294161179130068992"><img align="right" alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a> <a href="https://www.reddit.com/user/Mario_Matschgi"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a> <a href="https://twitter.com/Mario_Matschgi"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
 I am glad you visit my profile, how may i help you?
 
 # 👨‍💻 Who am I?
@@ -22,11 +22,11 @@ For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jet
 
 # 💬 How can you get in touch with me?
 > For more information about me and my projects visit my website [programario.at][programario]
-- <img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord: [Programario#7830](https://discordapp.com/users/294161179130068992)
+- <img alt="Discord" title="Discord" height="22" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord: [Programario#7830](https://discordapp.com/users/294161179130068992)
 - StackOverflow: [Mario Elsnig](https://stackoverflow.com/users/14065298/mario-elsnig?tab=profile)
-- <img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"> Reddit: [Mario_Matschgi](https://www.reddit.com/user/Mario_Matschgi)
+- <img alt="Reddit" title="Reddit" height="22" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"> Reddit: [Mario_Matschgi](https://www.reddit.com/user/Mario_Matschgi)
 - Instagram: [MarioMatschgi](https://www.instagram.com/mariomatschgi/)
-- <img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"> Twitter: [Mario_Matschgi](https://twitter.com/Mario_Matschgi)
+- <img alt="Twitter" title="Twitter" height="22" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"> Twitter: [Mario_Matschgi](https://twitter.com/Mario_Matschgi)
 - E-Mail: [mario.elsnig@gmail.com](mailto:mario.elsnig@gmail.com)
 
 [programario]: https://www.programario.at "programario.at"
