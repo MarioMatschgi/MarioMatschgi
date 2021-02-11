@@ -4,6 +4,10 @@ I am glad you visit my profile, how may i help you?
 # 👨‍💻 Who am I?
 I am Mario Elsnig 👨‍🎓, I am 16 years old (🎂 @ 13th of March 2004) and a student at a higher technical collegue in Austria.
 
+# Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarioMatschgi&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMatschgi&langs_count=5&theme=tokyonight)]()
+
 # 📑 What do i do?
 I go to school and in my spare time i code.
 
