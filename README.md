@@ -22,7 +22,7 @@ For games I use [Unity](https://unity.com) and [JetBrains Rider](https://www.jet
 
 # 💬 How can you get in touch with me?
 > For more information about me and my projects visit my website [programario.at][programario]
-- <img alt="Discord" title="Discord" height="22" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord: [Programario#7830](https://discordapp.com/users/294161179130068992)
+- <img alt="Discord" title="Discord" height="1em" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord: [Programario#7830](https://discordapp.com/users/294161179130068992)
 - StackOverflow: [Mario Elsnig](https://stackoverflow.com/users/14065298/mario-elsnig?tab=profile)
 - <img alt="Reddit" title="Reddit" height="22" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"> Reddit: [Mario_Matschgi](https://www.reddit.com/user/Mario_Matschgi)
 - Instagram: [MarioMatschgi](https://www.instagram.com/mariomatschgi/)
