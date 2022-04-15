@@ -8,7 +8,7 @@ I am Mario Elsnig 👨‍🎓, I am 18 years old (🎂 @ 13th of March 2004) and
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarioMatschgi&count_private=true&theme=tokyonight&showicons=true)]()
 
 # 📑 What do i do?
-I am a Fullstack Junior Software-Engineer and in my spare time i code.
+I am a Fullstack Junior Software-Engineer and in my spare time i code my own things.
 
 ## What do i code?
 I code stand-alone indie games, websites, bots, plugins and more...
