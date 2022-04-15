@@ -2,13 +2,13 @@
 I am glad you visit my profile, how may i help you?
 
 # 👨‍💻 Who am I?
-I am Mario Elsnig 👨‍🎓, I am 17 years old (🎂 @ 13th of March 2004) and a Fullstack Junior Software Engineer in Austria.
+I am Mario Elsnig 👨‍🎓, I am 18 years old (🎂 @ 13th of March 2004) and a Fullstack Junior Software Engineer in Austria.
 
 # Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarioMatschgi&count_private=true&theme=tokyonight&showicons=true)]()
 
 # 📑 What do i do?
-I go to school and in my spare time i code.
+I am a Fullstack Junior Software-Engineer and in my spare time i code.
 
 ## What do i code?
 I code stand-alone indie games, websites, bots, plugins and more...
